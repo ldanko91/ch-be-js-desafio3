@@ -1,0 +1,1 @@
+[{"id":1,"title":"tanque","description":"tanque para agua de 500 L","price":15000,"thumbnail":"tanque.jpg","code":"tanq500l","stock":11},{"id":2,"title":"vanitory","description":"vanitory de 50 cm","price":22000,"thumbnail":"vanit50.jpg","code":"van50std","stock":14}]
