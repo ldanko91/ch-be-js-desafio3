@@ -1,7 +1,7 @@
 import express from 'express'
 import productManager  from './ProductManager1.js'
 const app = express()
-const PORT = 4000
+const PORT = 8080
 
 app.use(express.urlencoded({extended:true}))
 
